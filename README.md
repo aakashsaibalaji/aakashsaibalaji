@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="150" src="https://www.dropbox.com/scl/fi/2gondn9hfflwfiyjueftt/Aakash-image1.png?rlkey=8nz8nuj7jdts8j131p8yahmo4&st=5ybkaxdo&dl=0"  />
+  <img height="150" src="file:///C:/Users/91910/Downloads/out-0%20(6).webp"  />
 </div>
 
 ###
