@@ -42,7 +42,13 @@ I'm a skilled Full Stack Developer with hands-on experience in crafting scalable
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/aakashsaibalaji/E-commerce-with-Admin" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aakashsaibalaji&repo=E-commerce-with-Admin&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/aakashsaibalaji/brain-tumor-identification" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aakashsaibalaji&repo=brain-tumor-identification&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/aakashsaibalaji/early-stage-detection-of-Alzheimers" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aakashsaibalaji&repo=early-stage-detection-of-Alzheimers&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/aakashsaibalaji/Event-List-Application" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aakashsaibalaji&repo=Event-List-Application&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/aakashsaibalaji/E-commerce-with-Admin" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aakashsaibalaji&repo=E-commerce-with-Admin&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/aakashsaibalaji/brain-tumor-identification" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aakashsaibalaji&repo=brain-tumor-identification&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/aakashsaibalaji/early-stage-detection-of-Alzheimers" align="left">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aakashsaibalaji&repo=early-stage-detection-of-Alzheimers&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+  <a href="https://github.com/aakashsaibalaji/Event-List-Application" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aakashsaibalaji&repo=Event-List-Application&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+
 ###
