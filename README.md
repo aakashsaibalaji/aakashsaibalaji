@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a skilled Full Stack Developer with hands-on experience in crafting scalable applications using modern technologies like JavaScript, TypeScript, and React. I'm passionate about contributing to innovative projects while continuously growing and delivering value through creative problem-solving.
+I'm a skilled Full Stack Developer with hands-on experience in crafting scalable applications using modern technologies. I'm passionate about contributing to innovative projects while continuously growing and delivering value through creative problem-solving.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aakashsaibalaji@gmail.com](mailto:aakashsaibalaji@gmail.com)
