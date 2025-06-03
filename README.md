@@ -23,7 +23,7 @@ I'm a skilled Full Stack Developer with hands-on experience in crafting scalable
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aakashsaibalaji@gmail.com](mailto:aakashsaibalaji@gmail.com)
-* 🚀  I'm recently worked at Techdome as a SDE Intern.
+* 🚀  I'm recently worked at Techdome as a Associate Software Development Engineer.
 * 🧠  I'm learning I'm diving deep into DSA and microservices architecture.
 * 🤝  I'm open to collaborating on Open Source projects and any Interesting Ideas.
 * ⚡  I channel my creativity into building new products. Feel free to join me!.
